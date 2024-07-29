@@ -1,0 +1,21 @@
+.custom-btn {
+    color: black;
+    border-radius: 20px; 
+    border-color: black;
+    background-color: transparent; 
+  }
+  
+
+  .navbar-divider {
+    display: inline-block;
+    margin: 0 10px; 
+    height: 40px; 
+    border-left: 1px solid #ccc; 
+  }
+  
+  .btn-yellow {
+    background-color: yellow;
+    color: black; 
+    
+  }
+  
